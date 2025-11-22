@@ -5,7 +5,8 @@
   display: flex;
   flex-wrap: wrap;
   outline: 4px solid black;
-  border-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
 }
 
 .item {
